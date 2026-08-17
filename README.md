@@ -1021,13 +1021,7 @@ This project demonstrates practical integration of:
 
 # 👨‍💻 Author
 
-## Devadharshan
-
-Computer Science Engineering — Artificial Intelligence & Machine Learning
-
-GitHub:
-
-https://github.com/Devadharshan619
+## Aravindhraj
 
 ---
 
