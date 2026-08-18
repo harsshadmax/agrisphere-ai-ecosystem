@@ -1,0 +1,1 @@
+AgriSphere is an AI platform combining satellite intelligence, yield predictions, and credit scoring to empower farmers. It features smart warehouse booking, driver logistics, and direct farmer-to-buyer bidding. Built by Renee Sharon R, Harsshad PA, Aravindhraj M and Rakshanaa B (Sathyabama Institute) using MERN and Python.
